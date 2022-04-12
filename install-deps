@@ -65,7 +65,7 @@ checkupdates_archlinux() {
     if [[ -n $(checkupdates) ]]; then
         echo "It seems that your system is not up to date."
         echo "It is recommended to update your system before going any further."
-        read -p "Continue installation ? [y/N] " yn
+        read -r -p "Continue installation ? [y/N] " yn
             case $yn in
                 Y|y ) echo "Continuing...";;
                 * ) echo "Installation aborted."
