@@ -96,7 +96,8 @@ if [[ `uname` == 'Darwin' ]]; then
     brew install --cask xquartz
     brew list -1 | grep -q "^gnuplot\$" && brew remove gnuplot
     brew install gnuplot --with-wxmac --with-cairo --with-pdflib-lite --with-x11 --without-lua
-    #brew install qt || true
+    brew tap cartr/qt4
+    brew install qt@4
 
 elif [[ "$(uname)" == 'Linux' ]]; then
 
