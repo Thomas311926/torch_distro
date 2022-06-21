@@ -95,7 +95,9 @@ if [[ `uname` == 'Darwin' ]]; then
     brew link readline --force
     brew install --cask xquartz
     brew list -1 | grep -q "^gnuplot\$" && brew remove gnuplot
-    brew install gnuplot --with-wxmac --with-cairo --with-pdflib-lite --with-x11 --without-lua
+    brew install gnuplot 
+    brew install wxmac cario pdflib-lite x11
+    brew uninstall lua
     brew tap cartr/qt4
     brew install qt@4
 
