@@ -97,7 +97,6 @@ if [[ `uname` == 'Darwin' ]]; then
     brew list -1 | grep -q "^gnuplot\$" && brew remove gnuplot
     brew install gnuplot 
     brew install wxmac cairo
-    brew uninstall lua --ignore-dependencies
     brew tap cartr/qt4 --custom-remote https://gproxy.com/https://github.com/cartr/homebrew-qt4
     brew install qt@4
 
