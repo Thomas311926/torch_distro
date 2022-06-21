@@ -98,7 +98,7 @@ if [[ `uname` == 'Darwin' ]]; then
     brew install gnuplot 
     brew install wxmac cairo
     brew uninstall lua --ignore-dependencies
-    brew tap https://ghproxy.com/https://github.com/cartr/homebrew-qt4
+    brew tap --custom-remote https://ghproxy.com/https://github.com/cartr/homebrew-qt4
     brew install qt@4
 
 elif [[ "$(uname)" == 'Linux' ]]; then
