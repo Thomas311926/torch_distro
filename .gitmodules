@@ -1,87 +1,87 @@
 [submodule "exe/luajit-rocks"]
 	path = exe/luajit-rocks
-	url = https://github.com/torch/luajit-rocks.git
+	url = https://ghproxy.com/https://github.com/torch/luajit-rocks
 [submodule "exe/qtlua"]
 	path = exe/qtlua
-	url = https://github.com/torch/qtlua.git
+	url = https://ghproxy.com/https://github.com/torch/qtlua
 [submodule "pkg/dok"]
 	path = pkg/dok
-	url = https://github.com/torch/dok.git
+	url = https://ghproxy.com/https://github.com/torch/dok
 [submodule "pkg/gnuplot"]
 	path = pkg/gnuplot
-	url = https://github.com/torch/gnuplot.git
+	url = https://ghproxy.com/https://github.com/torch/gnuplot
 [submodule "pkg/paths"]
 	path = pkg/paths
-	url = https://github.com/torch/paths.git
+	url = https://ghproxy.com/https://github.com/torch/paths
 [submodule "pkg/cwrap"]
 	path = pkg/cwrap
-	url = https://github.com/torch/cwrap.git
+	url = https://ghproxy.com/https://github.com/torch/cwrap
 [submodule "extra/cunn"]
 	path = extra/cunn
-	url = https://github.com/torch/cunn.git
+	url = https://ghproxy.com/https://github.com/torch/cunn
 [submodule "extra/cutorch"]
 	path = extra/cutorch
-	url = https://github.com/torch/cutorch.git
+	url = https://ghproxy.com/https://github.com/torch/cutorch
 [submodule "pkg/torch"]
 	path = pkg/torch
-	url = https://github.com/torch/torch7.git
+	url = https://ghproxy.com/https://github.com/torch/torch7
 [submodule "pkg/sundown"]
 	path = pkg/sundown
-	url = https://github.com/torch/sundown-ffi.git
+	url = https://ghproxy.com/https://github.com/torch/sundown-ffi
 [submodule "pkg/qttorch"]
 	path = pkg/qttorch
-	url = https://github.com/torch/qttorch.git
+	url = https://ghproxy.com/https://github.com/torch/qttorch
 [submodule "pkg/xlua"]
 	path = pkg/xlua
-	url = https://github.com/torch/xlua.git
+	url = https://ghproxy.com/https://github.com/torch/xlua
 [submodule "pkg/sys"]
 	path = pkg/sys
-	url = https://github.com/torch/sys.git
+	url = https://ghproxy.com/https://github.com/torch/sys
 [submodule "pkg/image"]
 	path = pkg/image
-	url = https://github.com/torch/image.git
+	url = https://ghproxy.com/https://github.com/torch/image
 [submodule "pkg/optim"]
 	path = pkg/optim
-	url = https://github.com/torch/optim.git
+	url = https://ghproxy.com/https://github.com/torch/optim
 [submodule "extra/threads"]
 	path = extra/threads
-	url = https://github.com/torch/threads-ffi.git
+	url = https://ghproxy.com/https://github.com/torch/threads-ffi
 [submodule "extra/argcheck"]
 	path = extra/argcheck
-	url = https://github.com/torch/argcheck.git
+	url = https://ghproxy.com/https://github.com/torch/argcheck
 [submodule "extra/cudnn"]
 	path = extra/cudnn
-	url = https://github.com/soumith/cudnn.torch.git
+	url = https://ghproxy.com/https://github.com/Thomas311926/cudnn
 [submodule "exe/trepl"]
 	path = exe/trepl
-	url = https://github.com/torch/trepl.git
+	url = https://ghproxy.com/https://github.com/torch/trepl
 [submodule "extra/nnx"]
 	path = extra/nnx
-	url = https://github.com/clementfarabet/lua---nnx.git
+	url = https://ghproxy.com/https://github.com/Thomas311926/torchlua
 [submodule "extra/nn"]
 	path = extra/nn
-	url = https://github.com/torch/nn.git
+	url = https://ghproxy.com/https://github.com/torch/nn
 [submodule "exe/env"]
 	path = exe/env
-	url = https://github.com/torch/env.git
+	url = https://ghproxy.com/https://github.com/torch/env
 [submodule "extra/graph"]
 	path = extra/graph
-	url = https://github.com/torch/graph
+	url = https://ghproxy.com/https://github.com/torch/graph
 [submodule "extra/nngraph"]
 	path = extra/nngraph
-	url = https://github.com/torch/nngraph
+	url = https://ghproxy.com/https://github.com/torch/nngraph
 [submodule "extra/luaffifb"]
 	path = extra/luaffifb
-	url = https://github.com/facebook/luaffifb
+	url = https://ghproxy.com/https://github.com/facebook/luaffifb
 [submodule "extra/luafilesystem"]
 	path = extra/luafilesystem
-	url = https://github.com/keplerproject/luafilesystem.git
+	url = https://ghproxy.com/https://github.com/keplerproject/luafilesystem
 [submodule "extra/penlight"]
 	path = extra/penlight
-	url = https://github.com/stevedonovan/Penlight.git
+	url = https://ghproxy.com/https://github.com/stevedonovan/Penlight
 [submodule "extra/lua-cjson"]
 	path = extra/lua-cjson
-	url = https://github.com/mpx/lua-cjson
+	url = https://ghproxy.com/https://github.com/mpx/lua-cjson
 [submodule "extra/moses"]
 	path = extra/moses
-	url = https://github.com/Yonaba/Moses.git
+	url = https://ghproxy.com/https://github.com/Yonaba/Moses
